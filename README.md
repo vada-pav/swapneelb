@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @swapneelb
+- 👋 Hi
 - 👀 I’m interested in learning to program.
 - 🌱 I’m currently learning HTML/CSS.
 - 💞️ I’m looking to collaborate on projects related to RSS readers and themes for UI.
